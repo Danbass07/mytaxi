@@ -2,7 +2,7 @@
     import { DateTime, Interval, Duration } from "luxon";
     import DayPicker from "./DayPicker.svelte";
     import TimePicker from "./TimePicker.svelte";
-    import workingDay from "../FunctionalComponents/working-day-store";
+    import workingDay from "../../FunctionalComponents/working-day-store";
     import {
         Button,
         ButtonGroup,

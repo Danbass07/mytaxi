@@ -1,6 +1,6 @@
 <script>
-    import timeline from "../FunctionalComponents/timeline-store";
-    import workingDay from "../FunctionalComponents/working-day-store";
+    import timeline from "../../FunctionalComponents/timeline-store";
+    import workingDay from "../../FunctionalComponents/working-day-store";
     import { Button } from "sveltestrap";
 
     export let day;
